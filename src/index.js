@@ -10,6 +10,8 @@ import rxjsConfig from "recompose/rxjsObservableConfig"
 import * as R from "ramda"
 setObservableConfig(rxjsConfig)
 
+//wow, did that just actually work...
+
 const {
   handler: setState,
   stream: setState$
