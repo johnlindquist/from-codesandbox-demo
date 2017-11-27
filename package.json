@@ -1,0 +1,22 @@
+{
+  "name": "5kz865ovq4",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "rxjs": "5.5.2",
+    "recompose": "0.26.0",
+    "react-dom": "16.1.1",
+    "react": "16.1.1",
+    "ramda": "0.25.0",
+    "partial.lenses": "13.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
